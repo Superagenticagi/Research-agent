@@ -955,4 +955,3 @@ function getHTML() {
   </script>
 </body>
 </html>`;
-}
