@@ -523,7 +523,7 @@ function getHTML() {
 
 <body>
   <header>
-    <h1>🔍 Research Agent</h1>
+    <h1>ðŸ” Research Agent</h1>
     <div id="codeBox" onclick="showCodeModal()">Code: ---</div>
   </header>
 
@@ -548,7 +548,7 @@ function getHTML() {
       autocomplete="off"
       enterkeyhint="send"
     />
-    <button onclick="sendMessage()" id="sendBtn" aria-label="Send">➤</button>
+    <button onclick="sendMessage()" id="sendBtn" aria-label="Send">âž¤</button>
   </div>
 
   <div id="codeModal">
@@ -955,4 +955,4 @@ function getHTML() {
   </script>
 </body>
 </html>`;
-}
+      }
