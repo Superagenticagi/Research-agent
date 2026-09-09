@@ -1,0 +1,7 @@
+name = "research-agent"
+main = "src/index.js"
+compatibility_date = "2026-09-09"
+
+[[kv_namespaces]]
+binding = "RESEARCH_MEMORY"
+id = "86915e070a624c2889050dd8666c5d29"
